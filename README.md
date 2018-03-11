@@ -1,2 +1,1 @@
-# -
-a game can make student relax
+print('a game can make student relax!')
